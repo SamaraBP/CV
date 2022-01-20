@@ -41,6 +41,10 @@ p{
   margin-bottom: 30px;
   font-size: .7em;
 }
+
+.motorcycles{
+  clear: left;
+}
                         /* Containers */
 hr{
   border-color: grey;
@@ -48,6 +52,7 @@ hr{
   border-width: 7px;
   margin: 75px auto 75px auto;
   width: 6%;
+  clear: left;
 }
 
 .top-container {
@@ -84,7 +89,7 @@ hr{
   border-radius: 15%;
   margin-right: 30px;
   margin-bottom:50px;
-  width:40%;
+  width:30%;
   float: left;
 }
 
@@ -92,7 +97,7 @@ hr{
   border-radius: 15%;
   float: right;
   margin-left: 30px;
-  width: 40%
+  width: 30%
 }
 
 #cloud1 {
